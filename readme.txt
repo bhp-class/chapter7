@@ -1,5 +1,6 @@
 This is a sample project.
 Stuff
 More stuff.
-Some info about this project.
+Some meaningless info about this project.
 And so on.
+more stupid lines
